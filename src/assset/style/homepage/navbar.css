@@ -1,0 +1,13 @@
+.navbar .am-navbar-left, .am-navbar-title, .am-navbar-right{
+    flex: 0 1 auto;
+}
+.navbar .am-navbar-left{
+    padding-left: 15px;
+    font-size: 21px;
+}
+.navbar .am-navbar{
+    height: 67px;
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+}
